@@ -1,2 +1,2 @@
 # capitalbikeshare
-Análise de dados para um business real de aluguel de bikes.
+Dados da https://capitalbikeshare.com/ disponíveis em: https://s3.amazonaws.com/capitalbikeshare-data/index.html
